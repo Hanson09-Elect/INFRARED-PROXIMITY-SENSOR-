@@ -1,4 +1,12 @@
-# INFRARED-PROXIMITY-SENSOR-
+# INFRARED-PROXIMITY-SENSORAPPLICATIONS
+
+1. IR sensors are now widely used in motion detectors, which are used in building services to switch on lamps.
+
+2. They are also used in alarm systems to detect unwelcome guests.
+
+3. Since all object have some form of thermal radiation, IR sensors can measure the heat of an object.
+
+4. Smartphones and other mobile devices often use infrared proximity sensors to detect the user’s proximity to the screen, adjusting display brightness and disabling touch input during calls.
 PROCEDURES
 1) The 5v pin of the Arduino board was connected to the VCC pin of IR sensor module via the Breadboard.
 
@@ -23,3 +31,7 @@ Breadboard.
 IR sensor module.
 Buzzer.
 
+AIM
+    To determine when there is obstruction within a distance
+    RESULTS
+     The sensor was able to pick up obstructions at am approximate distance of 5cm
