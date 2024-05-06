@@ -1,4 +1,5 @@
-# INFRARED-PROXIMITY-SENSORAPPLICATIONS
+# INFRARED-PROXIMITY-SENSOR
+#APPLICATIONS
 
 1. IR sensors are now widely used in motion detectors, which are used in building services to switch on lamps.
 
